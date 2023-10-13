@@ -1,59 +1,75 @@
 <!DOCTYPE html>
 
-<html>
+	<html>
 
-<head>
+		<head>
 
-<title> Formative Assessment 3 </title>
+			<title> Formative Assessment 3 </title>
 
-<style>
+		<style>
 
-body {
+			body {
 
-background-image: url("pink.jpeg");
+				background-image: url("https://i.pinimg.com/564x/44/0c/35/440c35f43d6651d106ae817ae38a1895.jpg");
 
-background-size: cover;
+				background-color: pink;
+				
+				background-position: center;
+				
+				background-repeat: no-repeat;
+				
 
-height: 1000px;
+			}
+			h1 { text-align: justify;
 
-background-color: pink;
+				font-style: italic; 
+				
+				background-color: #F37894;
 
-background-position: center; background-repeat: no-repeat; background-position: center;
+				border: 2px dotted blue;
 
-margin: 0px;
+				padding: 10px 15px;
 
-}
-h1 { text-align: justify;
+				width: 250px; 
+				
+				margin-bottom: 20px;
+			}
+			
+			p{
+			    text-align: justify;
 
-font-style: italic; background-color: #F37894;
+				font-style: italic; 
+				
+				background-color: #F37894;
 
-border-style: 3px solid black, 3px dotted black, 3px dashed black, 3px double black;
+				border-style: solid dashed double dotted;
 
-padding: 20px;
+				padding: 20px;
 
-width: 500px; margin: 0 auto;
-}
-p{text-align: justify;
+				width: 500px; 
+				
+			}
+			span{ font-style: italic;
 
-font-style: italic; background-color: #F37894;
+				margin-left: 2px;
+				
+				margin-right: 5px;
+				
+				font-color: #F37894;
+				
+				font-weight: bold;
+				
+				font-style: italic;
 
-border-style: 3px solid black, 3px dotted black, 3px dashed black, 3px double black;
+			}
+	</style>
+	
+	</head>
+	
+	<body>
+		<h1> Office Productivity </h1> <p> The book contains
 
-padding: 20px;
-
-width: 500px; margin: 0 auto;
-}
-span{ font-style: italic;
-
-margin: 0px 5px 8px 2px; font-color: #F37894; margin: 0 auto;
-
-}
-</style>
-</head>
-<body>
-<h1> Office Productivity </h1> <p> The book contains
-
-<span> <b> MS Word 2010, MS Excel 2010, MS PowerPoint 2010 and MS Outlook 2010. </b> </span> The book aims to educate students in creating documents, worksheets, presentations, and organization using different software that may work relatively. </p>
-
-</body>
+		<span> <b> MS Word 2010, MS Excel 2010, MS PowerPoint 2010 and MS Outlook 2010. </b> </span> The book aims to educate students in creating documents, worksheets, presentations, and organization using different software that may work relatively. </p>
+	</body>
+	
 </html>
